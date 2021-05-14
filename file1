@@ -1,3 +1,7 @@
 
 Hi This is the first line
+<<<<<<< HEAD
 this is the second line newly added
+=======
+this is the second line i've added
+>>>>>>> dev1
